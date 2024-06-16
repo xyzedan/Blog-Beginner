@@ -2,10 +2,9 @@
   <a href="https://github.com/taufikhdyt01/blog-beginner">
     <h1 align="center" style="color: #4B47FF">Blog Beginner</h1>
   </a>
-  <p align="center">
-    This repository is Laravel 11 with the auth starter kit Laravel Breeze and a provided Database Structure. Your task is to submit a Pull Request with your team's version of implementing the task, and your PR will be reviewed by the practicum assistant.
-  </p>
 </p>
+
+This repository is Laravel 11 with the auth starter kit Laravel Breeze and a provided Database Structure. Your task is to submit a Pull Request with your team's version of implementing the task, and your PR will be reviewed by the practicum assistant.
 
 # Getting Started
 
@@ -20,6 +19,9 @@ You need to create a simple CRUD Article interface with several pages:
     - Manage (i.e., create/update/delete) categories
     - Manage (i.e., create/update/delete) tags
     - Manage (i.e., create/update/delete) articles
+
+## DB Structure
+![db structure](https://github.com/taufikhdyt01/Blog-Beginner/blob/main/public/db_structure.png?raw=true)
 
 ## Prerequisites
 
